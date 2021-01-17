@@ -255,3 +255,25 @@ body {
               opacity: 0;
              }
            }
+
+           .icon-gift {
+            position: relative;
+            top: 40%;
+            left: 40%;
+           /* fill: #f1dddd;*/
+           fill: #b08fe0;
+            transform-origin: 0% 0%;
+            -webkit-transform-origin: 0% 0%;
+            cursor: pointer;
+            transform: translate(-50%, -50%);
+            transition: 1s;
+            -webkit-transform: translate(-50%, -50%);
+            -webkit-transition: 1s;
+            animation-name: dukdik; 
+            animation-duration: 0.5s;
+            animation-iteration-count: infinite;
+            -webkit-animation-name: dukdik; 
+            -webkit-animation-duration: 0.5s;
+            -webkit-animation-iteration-count: infinite;
+          }
+         

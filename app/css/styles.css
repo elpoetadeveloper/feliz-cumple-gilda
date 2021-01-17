@@ -16,6 +16,10 @@ main{
             transition: color 2s all 0s;        
 }
 
+.hide {
+    display: none;
+}
+
 @keyframes fadein {
     from { opacity: 0; }
     to   { opacity: 1; }
