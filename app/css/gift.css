@@ -277,3 +277,8 @@ body {
             -webkit-animation-iteration-count: infinite;
           }
          
+          @media (min-width: 700px) {
+            .gift-text { 
+              font-size: 2.5em;
+            }
+           }
